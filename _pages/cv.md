@@ -11,32 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, University of Iowa, 2015
-* B.S. in Actuarial Science, University of Iowa, 2015
-* B.S. in Computer Science, University of Iowa, 2015
+* B.S. in Mathematics, Actuarial Science and Computer Science, University of Iowa, 2015
 * M.S. in Computer Science, William and Mary, 2017
 * Ph.D in Computer Science, William and Mary, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022 - Aug 2022 : Ph.D. Machine Learning Intern
+  * Meta Inc.
+  * Core Ads Efficient 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jan 2022 - Apr 2022: Ph.D. Machine Learning Intern
+  * Instacart Inc.
+  * Recomendation & Ranking
+
+* May 2021 - Aug 2021 : Ph.D. Machine Learning Engineer Intern
+  * Meta Inc.
+  * News Feed Experiment & Backend (NFX)
 
 Publications
 ======
@@ -59,3 +50,12 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
