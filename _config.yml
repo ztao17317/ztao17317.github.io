@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zeyi (Tim) Tao"
 title_separator          : "-"
 name                     : &name "Tim Tao"
-description              : &description "personal description"
+description              : &description "Research Assistant at William&Mary"
 url                      : https://ztao17317.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ztao17317/ztao17317.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zeyi (Tim) Tao"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Assistant at William&Mary"
+  location         : "Anywhere on Earth"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
