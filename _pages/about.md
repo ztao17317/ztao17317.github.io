@@ -18,16 +18,19 @@ I will join Meta Inc. this summer.
 
 ## Publications
 Conferences
-:   CE-SGD: Communication-Efficient Distributed Machine Learning
+:
+
+CE-SGD: Communication-Efficient Distributed Machine Learning
 :   Z Tao, Q Xia, Q Li, S Cheng
 :   2021 IEEE Global Communications Conference (GLOBECOM 2021)
- 
-:   Neuron Manifold Distillation for Edge Deep Learning
+
+Neuron Manifold Distillation for Edge Deep Learning
 :   Z Tao, Q Xia, Q Li
 :   2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS)
 
 Journals
-:   An Efficient and Robust Cloud-based Deep Learning with Knowledge Distillation
+:   
+An Efficient and Robust Cloud-based Deep Learning with Knowledge Distillation
 :   Z Tao, Q Xia, S Chen, Q Li 
 :   IEEE Transactions on Cloud Computing (TCC)
 
