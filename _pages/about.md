@@ -21,7 +21,7 @@ Conferences
 :   CE-SGD: Communication-Efficient Distributed Machine Learning
 :   Z Tao, Q Xia, Q Li, S Cheng
 :   2021 IEEE Global Communications Conference (GLOBECOM 2021)
-:   
+ 
 :   Neuron Manifold Distillation for Edge Deep Learning
 :   Z Tao, Q Xia, Q Li
 :   2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS)
@@ -34,6 +34,6 @@ Journals
 Preprint & Undersubmission
 :   PreFed: Preconditioned Federated Learning 
 :   Z Tao, J Wu, Q Li
-
+ 
 :   E-FedNAS: An Efficient Federated Neural Architecture Search Algorithm
 :   Z Tao, J Wu, Q Li
