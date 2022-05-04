@@ -63,7 +63,20 @@ Communication-Efficient Distributed Deep Learning Algorithm
 :   Under submission of Journal of Parallel and Distributed Computing (JPDC)
 
 ## Professional Sevices
+**Reviewer**
+:IEEE INFOCOM (2021)
+:IEEE Internet of Things Journal (2021)
+:IEEE Internet Computing (2018, 2019, 2020)
+:IEEE Transactions on Services Computing (2019)
 
 ## Work Experiences
 
+Meta Inc. May 2022 - Aug 2022
+:   Ph.D. Machine Learning Intern
+
+Instacart Inc. Jan 2022 - Apr 2022
+:   Ph.D. Machine Learning Intern
+
+Meta Inc. May 2021 - Aug 2021
+:   Ph.D. Machine Learning Engineer Intern
 
