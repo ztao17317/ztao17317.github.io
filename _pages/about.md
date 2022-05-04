@@ -14,14 +14,26 @@ My research interest falls in Machine Learning, Deep learning, Distributed Machi
 
 
 ## News
+I will join Meta Inc. this summer.
 
 ## Publications
 Conferences
-:   a
+:   CE-SGD: Communication-Efficient Distributed Machine Learning
+:   Z Tao, Q Xia, Q Li, S Cheng
+:   2021 IEEE Global Communications Conference (GLOBECOM 2021)
+:   
+:   Neuron Manifold Distillation for Edge Deep Learning
+:   Z Tao, Q Xia, Q Li
+:   2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS)
 
 Journals
-:   b
-:   bB
+:   An Efficient and Robust Cloud-based Deep Learning with Knowledge Distillation
+:   Z Tao, Q Xia, S Chen, Q Li 
+:   IEEE Transactions on Cloud Computing (TCC)
+
 Preprint & Undersubmission
-:   c
-:   d
+:   PreFed: Preconditioned Federated Learning 
+:   Z Tao, J Wu, Q Li
+
+:   E-FedNAS: An Efficient Federated Neural Architecture Search Algorithm
+:   Z Tao, J Wu, Q Li
