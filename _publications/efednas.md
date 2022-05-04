@@ -6,7 +6,7 @@ excerpt: 'Test 2'
 date: 2022-02-01
 venue: 'preprint'
 paperurl: ''
-citation: 'Z Tao, J Wu, Q Li. E-FedNAS: An Efficient Federated Neural Architecture Search.&quot; <i>preprint (2022)</i>'
+citation: 'Z Tao, J Wu, Q Li. &quot;E-FedNAS: An Efficient Federated Neural Architecture Search.&quot; <i>preprint (2022)</i>'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work.
 
