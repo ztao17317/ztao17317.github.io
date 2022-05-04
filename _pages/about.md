@@ -17,7 +17,7 @@ My research interest falls in Machine Learning, Deep learning, Distributed Machi
 I will join Meta Inc. this summer.
 
 ## Publications
-Conferences
+**Conferences**
 :
 
 CE-SGD: Communication-Efficient Distributed Machine Learning
@@ -32,33 +32,38 @@ eSGD: Communication Efficient Distributed Deep Learning on the Edge
 :    Z Tao, Q Li
 :    USENIX Workshop on Hot Topics in Edge Computing (HotEdge 2018)
 
-Journals
-:   
-
-A survey of virtual machine management in edge computing
-:    Z Tao, Q Xia, Z Hao, C Li, L Ma, S Yi, Q Li
-:    Proceedings of the IEEE
+**Journals**
+:
 
 An Efficient and Robust Cloud-based Deep Learning with Knowledge Distillation
 :   Z Tao, Q Xia, S Chen, Q Li 
 :   IEEE Transactions on Cloud Computing (TCC)
 
-Preprints & Under Submissions
+A survey of virtual machine management in edge computing
+:    Z Tao, Q Xia, Z Hao, C Li, L Ma, S Yi, Q Li
+:    Proceedings of the IEEE
+
+**Preprints & Under Submissions**
 :
 
 LAWS: Look Around and Warm-start Quantum Natural Gradient Algorithm 
 :   Z Tao, J Wu, Q Li
+:   Under submission of IEEE International Conference on Quantum Computing and Engineering (QCE 2022)
 
 PreFed: Preconditioned Federated Learning 
 :   Z Tao, J Wu, Q Li
+:   Under submission of Thirty-sixth Conference on Neural Information Processing Systems (NIPS 2022)
  
 E-FedNAS: An Efficient Federated Neural Architecture Search Algorithm
 :   Z Tao, J Wu, Q Li
+:   Under submission of Thirty-sixth Conference on Neural Information Processing Systems (NIPS 2022)
 
 Communication-Efficient Distributed Deep Learning Algorithm
 :   Z Tao, Q Xia, Q Li
+:   Under submission of Journal of Parallel and Distributed Computing (JPDC)
 
 ## Professional Sevices
 
 ## Work Experiences
+
 
