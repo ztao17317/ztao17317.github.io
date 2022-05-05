@@ -40,11 +40,11 @@ eSGD: Communication Efficient Distributed Deep Learning on the Edge
 :
 
 An Efficient and Robust Cloud-based Deep Learning with Knowledge Distillation
-:   **Z Tao**Z, Q Xia, S Chen, Q Li 
+:   **Z Tao**, Q Xia, S Chen, Q Li 
 :   IEEE Transactions on Cloud Computing (TCC)
 
 A survey of virtual machine management in edge computing
-:    **Z Tao**Z, Q Xia, Z Hao, C Li, L Ma, S Yi, Q Li
+:    **Z Tao**, Q Xia, Z Hao, C Li, L Ma, S Yi, Q Li
 :    Proceedings of the IEEE
 
 **Preprints & Under Submissions**
