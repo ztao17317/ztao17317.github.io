@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-07-25
 venue: ''
 paperurl: ''
-citation: 'Z Tao, J Wu, Q Li. &quot;A survey of virtual machine management in edge computing.&quot; <i>Proceedings of the IEEE 107 (8), 1482-1499</i>'
+citation: 'Z Tao, Q Xia, Z Hao, C Li, L Ma, S Yi, Q Li. &quot;A survey of virtual machine management in edge computing.&quot; <i>Proceedings of the IEEE 107 (8), 1482-1499</i>'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work.
 

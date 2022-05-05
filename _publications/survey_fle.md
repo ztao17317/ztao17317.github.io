@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-06-01
 venue: ''
 paperurl: ''
-citation: 'Z Tao, J Wu, Q Li. &quot;A survey of federated learning for edge computing: Research problems and solutions.&quot; <i>High-Confidence Computing 1 (1), 100008</i>'
+citation: 'Q Xia, W Ye, Z Tao, J Wu, Q Li. &quot;A survey of federated learning for edge computing: Research problems and solutions.&quot; <i>High-Confidence Computing 1 (1), 100008</i>'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work.
 
